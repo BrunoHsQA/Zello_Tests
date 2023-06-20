@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../projetos/desenvolvimento"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../zello_python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue-trello"
+	}
+}
